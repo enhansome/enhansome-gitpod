@@ -1,0 +1,346 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Community Contributions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mattermost + Serge + ChatGPT4All + Gitpod",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-05-29T05:05:20Z",
+            "owner": "mattermost",
+            "repo": "mattermost-ai-framework",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlogGPT + LangChain + Gitpod",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-21T13:11:48Z",
+            "owner": "yaohui-wyh",
+            "repo": "blog_gpt",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "AI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ethereum + NextJs Workshop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-26T01:48:25Z",
+            "owner": "dabit3",
+            "repo": "polygon-ethereum-nextjs-marketplace",
+            "stars": 1322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hoprnet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T05:59:27Z",
+            "owner": "hoprnet",
+            "repo": "hoprnet",
+            "stars": 258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Subgraph by TheGraph.com Workshop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-08-26T15:30:29Z",
+            "owner": "pi0neerpat",
+            "repo": "thegraph-hacker-kit",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Express + React + MySQL",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-27T17:40:03Z",
+            "owner": "apolopena",
+            "repo": "express-react-starter",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Node.js"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Magento2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-09-28T11:44:51Z",
+            "owner": "nemke82",
+            "repo": "magento2gitpod",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wordpress",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2022-06-06T19:50:45Z",
+            "owner": "luizbills",
+            "repo": "gitpod-wordpress",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-10-10T11:28:35Z",
+            "owner": "apolopena",
+            "repo": "gitpod-laravel-starter",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "phpMyAdmin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-07-20T18:22:50Z",
+            "owner": "apolopena",
+            "repo": "gitpod-phpmyadmin",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theodorosploumis/gitpod-drupal-workspace (docker image)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2021-12-18T01:27:52Z",
+            "owner": "theodorosploumis",
+            "repo": "gitpod-drupal-workspace",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shopware with GPT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2025-08-26T10:10:04Z",
+            "owner": "Derroylo",
+            "repo": "shopware-workspace-sample",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sulu with GPT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2025-08-26T10:09:27Z",
+            "owner": "Derroylo",
+            "repo": "sulu-workspace-sample",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shopware",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2022-12-15T19:52:20Z",
+            "owner": "FriendsOfShopware",
+            "repo": "gitpod-meta",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oxid with GPT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2025-08-26T10:08:06Z",
+            "owner": "Derroylo",
+            "repo": "oxid-workspace-sample",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Symfony with GPT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2025-08-26T10:06:53Z",
+            "owner": "Derroylo",
+            "repo": "symfony-workspace-sample",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "PHP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "template-docker-compose",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-07T18:16:59Z",
+            "owner": "gitpod-samples",
+            "repo": "template-docker-compose",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "template-python-flask",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-10-26T06:13:51Z",
+            "owner": "gitpod-samples",
+            "repo": "template-python-flask",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "template-python-django",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-02-07T08:25:00Z",
+            "owner": "gitpod-samples",
+            "repo": "template-python-django",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "template-python-flask-tabnine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-10T17:07:09Z",
+            "owner": "gitpod-samples",
+            "repo": "template-python-flask-tabnine",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "template-python-django-tabnine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-10T17:07:04Z",
+            "owner": "gitpod-samples",
+            "repo": "template-python-django-tabnine",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "template-typescript-vue",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Templates"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T06:03:08.991Z",
+    "original_repository": "gitpod-samples/awesome-gitpod",
+    "original_repository_sha": "32715a0c3ce3ce9f1f4d61d7d81ee0b097bf374d",
+    "enhanced_repository": "enhansome/enhansome-gitpod",
+    "enhanced_repository_description": null,
+    "title": "Awesome Gitpod with stars"
+  }
+}
