@@ -43,7 +43,7 @@
 
 ### Go
 
-* [DDEV-Local](https://github.com/drud/ddev) ⭐ 3,735 | 🐛 164 | 🌐 Go | 📅 2026-08-13
+* [DDEV-Local](https://github.com/drud/ddev) ⭐ 3,736 | 🐛 162 | 🌐 Go | 📅 2026-08-13
 
 ### Node.js
 
@@ -110,4 +110,4 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/git
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
