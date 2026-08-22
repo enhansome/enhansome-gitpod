@@ -66,7 +66,7 @@
                 "archived": false,
                 "id": 286462146,
                 "language": "Rust",
-                "last_commit": "2026-08-19T13:45:33Z",
+                "last_commit": "2026-08-21T13:44:49Z",
                 "owner": "hoprnet",
                 "repo": "hoprnet",
                 "stars": 258
@@ -350,7 +350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T05:08:08.722Z",
+    "last_updated": "2026-08-22T05:02:31.087Z",
     "original_repository": "gitpod-samples/awesome-gitpod",
     "original_repository_id": 386660277,
     "original_repository_sha": "32715a0c3ce3ce9f1f4d61d7d81ee0b097bf374d",
