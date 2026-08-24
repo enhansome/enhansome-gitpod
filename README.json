@@ -44,6 +44,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "DDEV-Local",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80669528,
+                "language": "Go",
+                "last_commit": "2026-08-24T14:46:24Z",
+                "owner": "ddev",
+                "repo": "ddev",
+                "stars": 3743
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Ethereum + NextJs Workshop",
               "description": null,
               "children": [],
@@ -66,7 +88,7 @@
                 "archived": false,
                 "id": 286462146,
                 "language": "Rust",
-                "last_commit": "2026-08-24T02:11:32Z",
+                "last_commit": "2026-08-24T11:21:01Z",
                 "owner": "hoprnet",
                 "repo": "hoprnet",
                 "stars": 258
@@ -263,6 +285,50 @@
           "description": null,
           "node_type": "group",
           "title": "PHP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Phaser Editor 2D IDE + Phaser 3 + Webpack",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 402451275,
+                "language": "TypeScript",
+                "last_commit": "2024-01-11T11:04:27Z",
+                "owner": "PhaserEditor2D",
+                "repo": "starter-template-webpack",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Phaser.io"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "React on Rails",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 377658820,
+                "language": "Ruby",
+                "last_commit": "2022-01-29T17:07:01Z",
+                "owner": "apolopena",
+                "repo": "gp-react-on-rails-starter",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ruby/Rails"
         }
       ],
       "title": "Official Resources"
@@ -350,7 +416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:22:35.876Z",
+    "last_updated": "2026-08-24T14:47:06.717Z",
     "original_repository": "gitpod-samples/awesome-gitpod",
     "original_repository_id": 386660277,
     "original_repository_sha": "32715a0c3ce3ce9f1f4d61d7d81ee0b097bf374d",
