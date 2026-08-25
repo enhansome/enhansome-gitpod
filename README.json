@@ -51,7 +51,7 @@
                 "archived": false,
                 "id": 80669528,
                 "language": "Go",
-                "last_commit": "2026-08-24T20:26:02Z",
+                "last_commit": "2026-08-25T06:17:49Z",
                 "owner": "ddev",
                 "repo": "ddev",
                 "stars": 3745
@@ -416,7 +416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:08:52.501Z",
+    "last_updated": "2026-08-25T06:35:45.980Z",
     "original_repository": "gitpod-samples/awesome-gitpod",
     "original_repository_id": 386660277,
     "original_repository_sha": "32715a0c3ce3ce9f1f4d61d7d81ee0b097bf374d",
