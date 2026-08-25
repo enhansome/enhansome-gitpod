@@ -51,10 +51,10 @@
                 "archived": false,
                 "id": 80669528,
                 "language": "Go",
-                "last_commit": "2026-08-24T14:46:24Z",
+                "last_commit": "2026-08-24T20:26:02Z",
                 "owner": "ddev",
                 "repo": "ddev",
-                "stars": 3743
+                "stars": 3745
               }
             }
           ],
@@ -76,7 +76,7 @@
                 "last_commit": "2023-09-26T01:48:25Z",
                 "owner": "dabit3",
                 "repo": "polygon-ethereum-nextjs-marketplace",
-                "stars": 1323
+                "stars": 1324
               }
             },
             {
@@ -416,7 +416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:47:06.717Z",
+    "last_updated": "2026-08-25T05:08:52.501Z",
     "original_repository": "gitpod-samples/awesome-gitpod",
     "original_repository_id": 386660277,
     "original_repository_sha": "32715a0c3ce3ce9f1f4d61d7d81ee0b097bf374d",
