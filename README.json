@@ -51,10 +51,10 @@
                 "archived": false,
                 "id": 80669528,
                 "language": "Go",
-                "last_commit": "2026-08-27T09:19:21Z",
+                "last_commit": "2026-08-27T15:19:17Z",
                 "owner": "ddev",
                 "repo": "ddev",
-                "stars": 3746
+                "stars": 3759
               }
             }
           ],
@@ -88,7 +88,7 @@
                 "archived": false,
                 "id": 286462146,
                 "language": "Rust",
-                "last_commit": "2026-08-27T11:38:36Z",
+                "last_commit": "2026-08-27T13:35:35Z",
                 "owner": "hoprnet",
                 "repo": "hoprnet",
                 "stars": 258
@@ -416,7 +416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:41:00.557Z",
+    "last_updated": "2026-08-27T15:27:22.937Z",
     "original_repository_info": {
       "archived": false,
       "id": 386660277,
