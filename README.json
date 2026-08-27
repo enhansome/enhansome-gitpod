@@ -51,10 +51,10 @@
                 "archived": false,
                 "id": 80669528,
                 "language": "Go",
-                "last_commit": "2026-08-25T17:34:54Z",
+                "last_commit": "2026-08-27T09:19:21Z",
                 "owner": "ddev",
                 "repo": "ddev",
-                "stars": 3745
+                "stars": 3746
               }
             }
           ],
@@ -88,7 +88,7 @@
                 "archived": false,
                 "id": 286462146,
                 "language": "Rust",
-                "last_commit": "2026-08-25T17:28:33Z",
+                "last_commit": "2026-08-27T11:38:36Z",
                 "owner": "hoprnet",
                 "repo": "hoprnet",
                 "stars": 258
@@ -416,9 +416,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:08:32.259Z",
-    "original_repository": "gitpod-samples/awesome-gitpod",
-    "original_repository_id": 386660277,
+    "last_updated": "2026-08-27T11:41:00.557Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 386660277,
+      "language": null,
+      "last_commit": "2023-09-11T17:58:44Z",
+      "owner": "gitpod-samples",
+      "repo": "awesome-gitpod",
+      "stars": 71
+    },
     "original_repository_sha": "32715a0c3ce3ce9f1f4d61d7d81ee0b097bf374d",
     "enhanced_repository": "enhansome/enhansome-gitpod",
     "enhanced_repository_description": null,
