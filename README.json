@@ -72,7 +72,7 @@
                 "id": 80669528,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T22:19:33Z",
+                "last_commit": "2026-08-29T06:28:25Z",
                 "open_issues": 163,
                 "owner": "ddev",
                 "repo": "ddev",
@@ -652,7 +652,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:04:10.702Z",
+    "last_updated": "2026-08-29T11:19:25.437Z",
     "original_repository_info": {
       "archived": false,
       "description": "🍊 Awesome Gitpod | A curated list of awesome Gitpod resources.",

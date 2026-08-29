@@ -43,7 +43,7 @@
 
 ### Go
 
-* [DDEV-Local](https://github.com/drud/ddev) ⭐ 3,815 | 🐛 163 | 🌐 Go | 📅 2026-08-28
+* [DDEV-Local](https://github.com/drud/ddev) ⭐ 3,815 | 🐛 163 | 🌐 Go | 📅 2026-08-29
 
 ### Node.js
 
