@@ -72,11 +72,11 @@
                 "id": 80669528,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T09:42:27Z",
-                "open_issues": 159,
+                "last_commit": "2026-09-01T06:34:59Z",
+                "open_issues": 161,
                 "owner": "ddev",
                 "repo": "ddev",
-                "stars": 3821,
+                "stars": 3824,
                 "topics": [
                   "backdrop",
                   "craftcms",
@@ -141,7 +141,7 @@
                 "id": 286462146,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-31T10:57:29Z",
+                "last_commit": "2026-09-01T09:28:57Z",
                 "open_issues": 140,
                 "owner": "hoprnet",
                 "repo": "hoprnet",
@@ -652,7 +652,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T11:06:24.460Z",
+    "last_updated": "2026-09-01T09:34:22.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "🍊 Awesome Gitpod | A curated list of awesome Gitpod resources.",
