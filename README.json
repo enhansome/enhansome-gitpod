@@ -72,11 +72,11 @@
                 "id": 80669528,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T06:31:26Z",
-                "open_issues": 167,
+                "last_commit": "2026-09-12T06:30:14Z",
+                "open_issues": 162,
                 "owner": "ddev",
                 "repo": "ddev",
-                "stars": 3838,
+                "stars": 3839,
                 "topics": [
                   "backdrop",
                   "craftcms",
@@ -652,7 +652,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T09:06:33.305Z",
+    "last_updated": "2026-09-12T08:48:02.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "🍊 Awesome Gitpod | A curated list of awesome Gitpod resources.",
