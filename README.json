@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Mattermost + Serge + ChatGPT4All + Gitpod",
-              "description": null,
+              "description": "mattermost/mattermost-ai-framework",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -29,7 +29,7 @@
             {
               "node_type": "item",
               "title": "BlogGPT + LangChain + Gitpod",
-              "description": null,
+              "description": "yaohui-wyh/blog_gpt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -63,7 +63,7 @@
             {
               "node_type": "item",
               "title": "DDEV-Local",
-              "description": null,
+              "description": "ddev/ddev",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -72,11 +72,11 @@
                 "id": 80669528,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T06:36:23Z",
+                "last_commit": "2026-10-02T19:00:40Z",
                 "open_issues": 176,
                 "owner": "ddev",
                 "repo": "ddev",
-                "stars": 3901,
+                "stars": 3902,
                 "topics": [
                   "backdrop",
                   "craftcms",
@@ -111,7 +111,7 @@
             {
               "node_type": "item",
               "title": "Ethereum + NextJs Workshop",
-              "description": null,
+              "description": "dabit3/polygon-ethereum-nextjs-marketplace",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -124,7 +124,7 @@
                 "open_issues": 42,
                 "owner": "dabit3",
                 "repo": "polygon-ethereum-nextjs-marketplace",
-                "stars": 1324,
+                "stars": 1323,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:12.713Z"
@@ -132,7 +132,7 @@
             {
               "node_type": "item",
               "title": "Hoprnet",
-              "description": null,
+              "description": "hoprnet/hoprnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -141,7 +141,7 @@
                 "id": 286462146,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-01T18:36:38Z",
+                "last_commit": "2026-10-03T04:42:41Z",
                 "open_issues": 147,
                 "owner": "hoprnet",
                 "repo": "hoprnet",
@@ -157,7 +157,7 @@
             {
               "node_type": "item",
               "title": "Subgraph by TheGraph.com Workshop",
-              "description": null,
+              "description": "pi0neerpat/thegraph-hacker-kit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -178,7 +178,7 @@
             {
               "node_type": "item",
               "title": "Express + React + MySQL",
-              "description": null,
+              "description": "apolopena/express-react-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -206,7 +206,7 @@
             {
               "node_type": "item",
               "title": "Magento2",
-              "description": null,
+              "description": "nemke82/magento2gitpod",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -227,7 +227,7 @@
             {
               "node_type": "item",
               "title": "Wordpress",
-              "description": null,
+              "description": "luizbills/gitpod-wordpress",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -252,7 +252,7 @@
             {
               "node_type": "item",
               "title": "Laravel",
-              "description": null,
+              "description": "apolopena/gitpod-laravel-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -289,7 +289,7 @@
             {
               "node_type": "item",
               "title": "phpMyAdmin",
-              "description": null,
+              "description": "apolopena/gitpod-phpmyadmin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -317,7 +317,7 @@
             {
               "node_type": "item",
               "title": "theodorosploumis/gitpod-drupal-workspace (docker image)",
-              "description": null,
+              "description": "theodorosploumis/gitpod-drupal-workspace",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -353,7 +353,7 @@
             {
               "node_type": "item",
               "title": "Shopware with GPT",
-              "description": null,
+              "description": "Derroylo/shopware-workspace-sample",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -374,7 +374,7 @@
             {
               "node_type": "item",
               "title": "Sulu with GPT",
-              "description": null,
+              "description": "Derroylo/sulu-workspace-sample",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -395,7 +395,7 @@
             {
               "node_type": "item",
               "title": "Shopware",
-              "description": null,
+              "description": "FriendsOfShopware/gitpod-meta",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -416,7 +416,7 @@
             {
               "node_type": "item",
               "title": "Oxid with GPT",
-              "description": null,
+              "description": "Derroylo/oxid-workspace-sample",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -437,7 +437,7 @@
             {
               "node_type": "item",
               "title": "Symfony with GPT",
-              "description": null,
+              "description": "Derroylo/symfony-workspace-sample",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -465,7 +465,7 @@
             {
               "node_type": "item",
               "title": "Phaser Editor 2D IDE + Phaser 3 + Webpack",
-              "description": null,
+              "description": "PhaserEditor2D/starter-template-webpack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -499,7 +499,7 @@
             {
               "node_type": "item",
               "title": "React on Rails",
-              "description": null,
+              "description": "apolopena/gp-react-on-rails-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -531,7 +531,7 @@
         {
           "node_type": "item",
           "title": "template-docker-compose",
-          "description": null,
+          "description": "gitpod-samples/template-docker-compose",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -556,7 +556,7 @@
         {
           "node_type": "item",
           "title": "template-python-flask",
-          "description": null,
+          "description": "gitpod-samples/template-python-flask",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -582,7 +582,7 @@
         {
           "node_type": "item",
           "title": "template-python-django",
-          "description": null,
+          "description": "gitpod-samples/template-python-django",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -608,7 +608,7 @@
         {
           "node_type": "item",
           "title": "template-python-flask-tabnine",
-          "description": null,
+          "description": "gitpod-samples/template-python-flask-tabnine",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -629,7 +629,7 @@
         {
           "node_type": "item",
           "title": "template-python-django-tabnine",
-          "description": null,
+          "description": "gitpod-samples/template-python-django-tabnine",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -652,7 +652,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:42:25.378Z",
+    "last_updated": "2026-10-03T04:49:06.946Z",
     "original_repository_info": {
       "archived": false,
       "description": "🍊 Awesome Gitpod | A curated list of awesome Gitpod resources.",
