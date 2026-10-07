@@ -72,11 +72,11 @@
                 "id": 80669528,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T06:34:50Z",
-                "open_issues": 172,
+                "last_commit": "2026-10-07T06:33:56Z",
+                "open_issues": 180,
                 "owner": "ddev",
                 "repo": "ddev",
-                "stars": 3903,
+                "stars": 3906,
                 "topics": [
                   "backdrop",
                   "craftcms",
@@ -124,7 +124,7 @@
                 "open_issues": 42,
                 "owner": "dabit3",
                 "repo": "polygon-ethereum-nextjs-marketplace",
-                "stars": 1324,
+                "stars": 1323,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:12.713Z"
@@ -141,8 +141,8 @@
                 "id": 286462146,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-06T09:50:49Z",
-                "open_issues": 145,
+                "last_commit": "2026-10-07T11:13:25Z",
+                "open_issues": 149,
                 "owner": "hoprnet",
                 "repo": "hoprnet",
                 "stars": 258,
@@ -652,7 +652,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:28:38.323Z",
+    "last_updated": "2026-10-07T11:18:35.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "🍊 Awesome Gitpod | A curated list of awesome Gitpod resources.",
