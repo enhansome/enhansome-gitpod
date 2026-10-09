@@ -43,12 +43,12 @@
 
 ### Go
 
-* [DDEV-Local](https://github.com/drud/ddev) ⭐ 3,905 | 🐛 179 | 🌐 Go | 📅 2026-10-08
+* [DDEV-Local](https://github.com/drud/ddev) ⭐ 3,907 | 🐛 174 | 🌐 Go | 📅 2026-10-09
 
 ### Node.js
 
 * [Ethereum + NextJs Workshop](https://github.com/dabit3/polygon-ethereum-nextjs-marketplace) ⭐ 1,323 | 🐛 42 | 🌐 JavaScript | 📅 2023-09-26
-* [Hoprnet](https://github.com/hoprnet/hoprnet) ⭐ 258 | 🐛 143 | 🌐 Rust | 📅 2026-10-08
+* [Hoprnet](https://github.com/hoprnet/hoprnet) ⭐ 258 | 🐛 143 | 🌐 Rust | 📅 2026-10-09
 * [Subgraph by TheGraph.com Workshop](https://github.com/pi0neerpat/thegraph-hacker-kit) ⭐ 20 | 🐛 1 | 🌐 JavaScript | 📅 2021-08-26
 * [Express + React + MySQL](https://github.com/apolopena/express-react-starter) ⭐ 4 | 🐛 3 | 🌐 JavaScript | 📅 2023-08-27
 
@@ -110,4 +110,4 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/git
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
