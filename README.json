@@ -72,8 +72,8 @@
                 "id": 80669528,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T06:29:12Z",
-                "open_issues": 165,
+                "last_commit": "2026-10-18T06:28:53Z",
+                "open_issues": 166,
                 "owner": "ddev",
                 "repo": "ddev",
                 "stars": 3922,
@@ -124,7 +124,7 @@
                 "open_issues": 42,
                 "owner": "dabit3",
                 "repo": "polygon-ethereum-nextjs-marketplace",
-                "stars": 1322,
+                "stars": 1321,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:12.713Z"
@@ -652,7 +652,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T08:46:00.209Z",
+    "last_updated": "2026-10-18T09:02:13.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "🍊 Awesome Gitpod | A curated list of awesome Gitpod resources.",
