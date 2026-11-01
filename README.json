@@ -72,11 +72,11 @@
                 "id": 80669528,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T06:21:14Z",
+                "last_commit": "2026-11-01T06:20:38Z",
                 "open_issues": 169,
                 "owner": "ddev",
                 "repo": "ddev",
-                "stars": 3938,
+                "stars": 3940,
                 "topics": [
                   "backdrop",
                   "craftcms",
@@ -170,7 +170,7 @@
                 "open_issues": 1,
                 "owner": "pi0neerpat",
                 "repo": "thegraph-hacker-kit",
-                "stars": 21,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:12.713Z"
@@ -652,7 +652,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T10:33:58.328Z",
+    "last_updated": "2026-11-01T11:28:07.539Z",
     "original_repository_info": {
       "archived": false,
       "description": "🍊 Awesome Gitpod | A curated list of awesome Gitpod resources.",
