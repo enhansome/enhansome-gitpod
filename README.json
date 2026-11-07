@@ -72,8 +72,8 @@
                 "id": 80669528,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T06:22:38Z",
-                "open_issues": 166,
+                "last_commit": "2026-11-07T06:19:13Z",
+                "open_issues": 180,
                 "owner": "ddev",
                 "repo": "ddev",
                 "stars": 3946,
@@ -141,8 +141,8 @@
                 "id": 286462146,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-06T11:34:36Z",
-                "open_issues": 168,
+                "last_commit": "2026-11-07T10:12:40Z",
+                "open_issues": 167,
                 "owner": "hoprnet",
                 "repo": "hoprnet",
                 "stars": 260,
@@ -652,7 +652,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T12:24:49.807Z",
+    "last_updated": "2026-11-07T11:17:07.422Z",
     "original_repository_info": {
       "archived": false,
       "description": "🍊 Awesome Gitpod | A curated list of awesome Gitpod resources.",
