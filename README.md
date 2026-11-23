@@ -43,12 +43,12 @@
 
 ### Go
 
-* [DDEV-Local](https://github.com/drud/ddev) ⭐ 3,963 | 🐛 190 | 🌐 Go | 📅 2026-11-22
+* [DDEV-Local](https://github.com/drud/ddev) ⭐ 3,966 | 🐛 198 | 🌐 Go | 📅 2026-11-23
 
 ### Node.js
 
 * [Ethereum + NextJs Workshop](https://github.com/dabit3/polygon-ethereum-nextjs-marketplace) ⭐ 1,321 | 🐛 41 | 🌐 JavaScript | 📅 2023-09-26
-* [Hoprnet](https://github.com/hoprnet/hoprnet) ⭐ 260 | 🐛 193 | 🌐 Rust | 📅 2026-11-22
+* [Hoprnet](https://github.com/hoprnet/hoprnet) ⭐ 260 | 🐛 200 | 🌐 Rust | 📅 2026-11-23
 * [Subgraph by TheGraph.com Workshop](https://github.com/pi0neerpat/thegraph-hacker-kit) ⭐ 20 | 🐛 1 | 🌐 JavaScript | 📅 2021-08-26
 * [Express + React + MySQL](https://github.com/apolopena/express-react-starter) ⭐ 4 | 🐛 3 | 🌐 JavaScript | 📅 2023-08-27
 
@@ -76,7 +76,7 @@
 
 ## Templates
 
-* [template-docker-compose](https://github.com/gitpod-io/template-docker-compose) ⭐ 33 | 🐛 0 | 📅 2026-01-07
+* [template-docker-compose](https://github.com/gitpod-io/template-docker-compose) ⭐ 32 | 🐛 0 | 📅 2026-01-07
 * [template-python-flask](https://github.com/gitpod-io/template-python-flask) ⭐ 22 | 🐛 0 | 📅 2023-10-26
 * [template-python-django](https://github.com/gitpod-io/template-python-django) ⭐ 21 | 🐛 0 | 📅 2024-02-07
 * [template-python-flask-tabnine](https://github.com/gitpod-io/template-python-flask-tabnine) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2021-09-10
@@ -110,4 +110,4 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/git
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
